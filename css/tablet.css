@@ -1,0 +1,42 @@
+@media (max-width: 1200px){
+    .card{
+        margin: 10px 10px;
+    }
+    
+
+}
+@media (max-width: 810px){
+    .div__mae{
+        flex-direction: column;
+        
+    }
+
+    .formacoes{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .card{
+        margin: 15px;
+    }
+
+    .img-fluid{
+        width: 20rem;
+        height: 20rem;
+        margin-top: 40px;
+    }
+
+    .skills__line{
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        margin-bottom: 30px;
+        flex-wrap: nowrap;
+    }
+
+    .titulo__formacao{
+        margin-top: 30px;
+    }
+}
